@@ -13,17 +13,13 @@ This is the source code for the official Heavenly Tempt website.
 📸 Screenshots
 
   
-![Home Section](screenshots/home.png)
+![](images/page1.png)
+![](images/page2.png)
+![](images/page3.png)
+![](images/page4.png)
+![](images/page4.png)
+![](images/page5.png)
 
-### 📖 Catalogue & Brownies Section  
-![Catalogue](images/page1.png)
-
-### 🍰 Brownies Display  
-![Brownie Section](images/page2.png)
-
-### 📦 Tubs, Slabs & More  
-![Brownie Tubs](images/page3.png)
-![Brownie Tubs](images/page4.png)
 
 ## 🛠️ Tech Stack
 
