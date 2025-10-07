@@ -4,11 +4,11 @@ Welcome to **Heavenly Tempt**, your destination for indulgent, handmade brownies
 
 This is the source code for the official Heavenly Tempt website.
 
- 🌟 Features
+ # Features
 
-- 🍫 Catalogue of brownies, tubs, slabs, and towers
-- 🎨 Aesthetic and responsive design
-- 🔗 Smooth scroll navigation
+* Catalogue of brownies, tubs, slabs, and towers
+* Aesthetic and responsive design
+* Smooth scroll navigation
 
 📸 Screenshots
 
